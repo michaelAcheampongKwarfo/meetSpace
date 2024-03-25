@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936475195804",
+    "project_id": "meetspaceapp",
+    "storage_bucket": "meetspaceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936475195804:android:1fe42d50e366c11e5bf059",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCal6Wv0cjZrVNLflcdNp93FohFfZt7sws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
